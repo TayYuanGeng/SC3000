@@ -1,2 +1,2 @@
 # SC3000
-Lab Assignmetns
+Lab Assignments
